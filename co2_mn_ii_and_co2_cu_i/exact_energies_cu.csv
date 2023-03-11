@@ -1,0 +1,5 @@
+,num_spatial_orbitals,exact_energies_ev,num_hamiltonian_terms,num_qubits
+0,3,-49657.82837838471,100,4
+1,4,-49657.82837838467,155,5
+2,5,-49657.82837838469,231,6
+3,6,-49657.82835841525,514,8
