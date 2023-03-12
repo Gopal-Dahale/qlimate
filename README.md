@@ -27,6 +27,11 @@ Each directory contains numbered jupyter notebooks with markdowns for explanatio
 
 $H_2O + Cu-MOF-74$ is in `cu-mof-74`.
 
+### Other files
+
+1. `utils.py` contains code for problem construction, ansatz selection, custom VQE and other utility functions.
+2. `dmet` directory contains the code for Density Matrix Embedding Theory (DMET) method.
+
 ## References
 1. [Molecular Energy Landscapes of Hardware-Efficient Ansätze in Quantum Computing Boy Choy* and David J. Wales](https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.2c01057)
 2. [Density Matrix Embedding: A Strong-Coupling Quantum Embedding Theory Gerald Knizia* and Garnet Kin-Lic Chan](https://pubs.acs.org/doi/10.1021/ct301044e)
