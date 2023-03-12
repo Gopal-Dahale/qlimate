@@ -31,6 +31,8 @@ $H_2O + Cu-MOF-74$ is in `cu-mof-74`.
 
 1. `utils.py` contains code for problem construction, ansatz selection, custom VQE and other utility functions.
 2. `dmet` directory contains the code for Density Matrix Embedding Theory (DMET) method.
+3. `Task IB.ipynb` describes compares the quantum-hybrid solution to at classical solution (CCSD), describing advantages and disadvantages of the approaches. 
+4. `Task 2.ipynb` conceptualizes a quantum or hybrid solution to scale the calculation from one binding site to at least one 2D unit cell of the given metal organic framework-family AND from one gas molecule to a larger amount of substance of the gas molecule. It discusses the requirements for the solution to be implemented in real quantum computers and give an estimate for the time horizon at which it may become feasible. 
 
 ## References
 1. [Molecular Energy Landscapes of Hardware-Efficient Ansätze in Quantum Computing Boy Choy* and David J. Wales](https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.2c01057)
