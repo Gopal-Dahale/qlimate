@@ -15,9 +15,17 @@ Finally, we explored $H_2O + Cu-MOF-74$ system using DMET and a simple fragmenta
 
 ## Files
 
-1. The first is the `qhack-simulation.ipynb` which describes the problem statement and simulates the ansatzes. 
-2. Based on the deparameterised circuits obtained in the previous step, `qhack-hardware.ipynb` executes them on real hardware.
-3. Although, the notebooks are self contained, `report.pdf` summarizes all the problem statement, methodology, results and conclusion.
+Each directory contains numbered jupyter notebooks with markdowns for explanations. They also contain the output and input `csv` and other used files.
+
+### Task I
+
+1. $CO_2$ with 2 metal ions $Mn(II)$ and $Cu(I)$ is in `co2_mn_ii_and_co2_cu_i` .
+2. $H_2O + Mn(II)$ is in `min_pes_h2o_mnii`.
+3. $CO_2 + CH_3NH_2$ is in `co2-ch3nh2`.
+
+### Task II
+
+$H_2O + Cu-MOF-74$ is in `cu-mof-74`.
 
 ## References
 1. [Molecular Energy Landscapes of Hardware-Efficient Ansätze in Quantum Computing Boy Choy* and David J. Wales](https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.2c01057)
